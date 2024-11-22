@@ -1,2 +1,3 @@
 # area-calculator
-Second commit
+Second commit 
+3rd commit
